@@ -1,7 +1,6 @@
-# eden_darknet
+# dylwoopdarknet
 
-ESX Eden Darknet
-
+ESX dylwoopdarknet
 [REQUIREMENTS]
 
 
